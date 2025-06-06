@@ -1,4 +1,7 @@
-his project uses FastF1, machine learning (Gradient Boosting Regressor), and real-world F1 data (lap times, qualifying performance, weather, and team strength) to predict the top 3 drivers for the upcoming Grand Prix—specifically the 2025 Monaco GP.
+🏎️ F1 Grand Prix Race Time Predictor (2025 Grand Prix)
+
+
+This project uses FastF1, machine learning (Gradient Boosting Regressor), and real-world F1 data (lap times, qualifying performance, weather, and team strength) to predict the top 3 drivers for the upcoming Grand Prix—specifically the 2025 Monaco GP.
 
 📊 What This Project Does
 Loads and processes Monaco 2024 lap data using FastF1.
